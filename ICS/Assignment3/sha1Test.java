@@ -25,16 +25,12 @@ public class sha1Test {
 
     }
 
-    public static void main(String[] args) {
-        try {
-            Scanner scanner = new Scanner(System.in);
-            System.out.println("Enter a String: ");
-            String input = scanner.nextLine();
-            System.out.println("\nInput String: " + input + " \nMessage digest using SHA1: " + sha1(input));
+    public static void main(String[] args) throws NoSuchAlgorithmException {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Enter a String: ");
+        String input = scanner.nextLine();
+        System.out.println("\nInput String: " + input + " \nMessage digest using SHA1: " + sha1(input));
 
-        } catch (NoSuchAlgorithmException e) {
-            return;
-        }
     }
 
 }

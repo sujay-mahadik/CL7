@@ -9,6 +9,7 @@ Byte to Hex conversion [explanation](https://stackoverflow.com/questions/2583847
 [Wiki](https://en.wikipedia.org/wiki/SHA-1)
 
 ### Instructions
+[**SHA1 String to hash**](https://github.com/sujay-mahadik/CL7/blob/master/ICS/Assignment3/sha1Test.java)
 
 Compile:
 
@@ -18,4 +19,16 @@ javac sha1Test.java
 Run:
 ```
 java sha1Test
+```
+
+[**SHA1 File Checksum**](https://github.com/sujay-mahadik/CL7/blob/master/ICS/Assignment3/sha1Checksum.java)
+
+Compile:
+
+```
+javac sha1Checksum.java
+```
+Run:
+```
+java sha1Checksum
 ```
