@@ -20,3 +20,7 @@ Public repository for Computer Laboratory VII - BE Semester 1
     - [x] Study and Collect Resources
     - [x] Implement
     - [ ] Done
+
+## MLA - Machine Learning and Applications 
+
+To Do
