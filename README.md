@@ -16,7 +16,7 @@ Public repository for Computer Laboratory VII - BE Semester 1
     - [x] Implement
     - [x] Done
 
-- [**Assignment 4**]() -Configure and demonstrate use of vulnerability assessment tool such as Snort tool for intrusion or SSL Web security.
+- [**Assignment 4**](https://github.com/sujay-mahadik/CL7/blob/master/ICS/Assignment4/README.md) -Configure and demonstrate use of vulnerability assessment tool such as Snort tool for intrusion or SSL Web security.
     - [x] Study and Collect Resources
     - [ ] Implement
     - [ ] Done
