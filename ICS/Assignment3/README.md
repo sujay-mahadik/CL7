@@ -1,7 +1,7 @@
 ##  SHA1 algorithm using libraries 
 In cryptography, SHA-1 (Secure Hash Algorithm 1) is a cryptographic hash function which takes an input and produces a 160-bit (20-byte) hash value known as a message digest - typically rendered as a hexadecimal number, 40 digits long. It was designed by the United States National Security Agency, and is a U.S. Federal Information Processing Standard. [[ref]](https://en.wikipedia.org/wiki/SHA-1)
 
-![code image](https://github.com/sujay-mahadik/CL7/blob/master/ICS/Assignment3/test_file_for_checksum.png)
+![code image](https://github.com/sujay-mahadik/CL7/blob/master/ICS/Assignment3/code_snap.png)
 
 ### Sources
 [SHA-1 online](http://www.sha1-online.com/sha1-java/)
