@@ -23,4 +23,58 @@ Public repository for Computer Laboratory VII - BE Semester 1
 
 ## MLA - Machine Learning and Applications 
 
-To Do
+- [**Assignment 1**](https://github.com/sujay-mahadik/CL7/tree/master/MLA/Assignment1) - Study of platform for Implementation of Assignments. Download the open source software of your interest. Document the distinct features and functionality of the software platform. You may choose WEKA and R and Python 
+    - [x] Study and Collect Resources
+    - [x] Implement
+    - [ ] Done
+
+- [**Assignment 2**](https://github.com/sujay-mahadik/CL7/tree/master/MLA/Assignment2) - Supervised Learning - Regression  (Using R). Generate a proper 2-D data set of N points. Split the data set into Training Data set and Test Data set.
+    - [ ] Study and Collect Resources
+    - [ ] Implement
+    - [ ] Done
+
+- [**Assignment 3**](https://github.com/sujay-mahadik/CL7/tree/master/MLA/Assignment3) - Create Association Rules for the Market Basket Analysis for the given Threshold. (Using R)
+
+    [Download output](https://drive.google.com/file/d/1xvDIbXWIKBDLuwGL7-tncQfnLpB9j_B-/view?usp=sharing)
+
+    - [x] Study and Collect Resources
+    - [x] Implement
+    - [x] Done
+
+- [**Assignment 4**](https://github.com/sujay-mahadik/CL7/tree/master/MLA/Assignment4) - Implement K-Means algorithm for clustering to create a Cluster on the given data.(Using Python)
+
+    [Download output](https://drive.google.com/file/d/1cfgjihxoj1FYJjdUNiTkjzieC3u61Nyu/view?usp=sharing)
+
+    - [x] Study and Collect Resources
+    - [x] Implement
+    - [x] Done
+
+- [**Assignment 5**](https://github.com/sujay-mahadik/CL7/tree/master/MLA/Assignment5) - Implement SVM for performing classification and find its accuracy on the given data. (Using Python)
+
+    [Download pdf](https://drive.google.com/file/d/1WAgXt_nv1sS3V1C1KyZg3jeEOJUgoDBR/view?usp=sharing)
+
+    - [x] Study and Collect Resources
+    - [x] Implement
+    - [x] Done
+
+- [**Assignment 6**](https://github.com/sujay-mahadik/CL7/tree/master/MLA/Assignment6) - Creating & Visualizing Neural Network for the given data. (Using Python)
+
+    [Download pdf](https://drive.google.com/file/d/12f7-kRmtAPzFR0sUYTm4JGgr8_WlWF1h/view?usp=sharing)
+
+    - [x] Study and Collect Resources
+    - [x] Implement
+    - [ ] Done
+
+- [**Assignment 7**](https://github.com/sujay-mahadik/CL7/tree/master/MLA/Assignment7) -  On the given data perform the performance measurements using Simple Naïve Bayes algorithm such as Accuracy, Error rate, precision, Recall, TPR,FPR,TNR,FPR etc. (Using Weka API through JAVA)
+    - [ ] Study and Collect Resources
+    - [ ] Implement
+    - [ ] Done
+
+- [**Assignment 8**](https://github.com/sujay-mahadik/CL7/tree/master/MLA/Assignment8) - Principal Component Analysis-Finding Principal Components, Variance and Standard Deviation calculations of principal components.(Using R)
+
+    [Download pdf](https://drive.google.com/file/d/1EUeFcQ2t92vzF0M53LuUomUPAoWe0Aay/view?usp=sharing)
+
+    - [x] Study and Collect Resources
+    - [x] Implement
+    - [ ] Done
+    
