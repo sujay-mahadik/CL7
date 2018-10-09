@@ -29,15 +29,21 @@ Public repository for Computer Laboratory VII - BE Semester 1
     - [x] Done
 
 - [**Assignment 4**](https://github.com/sujay-mahadik/CL7/blob/master/ICS/Assignment4/README.md) -Configure and demonstrate use of vulnerability assessment tool such as Snort tool for intrusion or SSL Web security.
+
+    :arrow_down: [Download output](https://drive.google.com/file/d/1Hm4PPP0qZCyp0WyGqeRm-ORFaiT83nMA/view?usp=sharing)
+
     - [x] Study and Collect Resources
-    - [x] Implement
+    - [ ] Implement
     - [ ] Done
 
 ## MLA - Machine Learning and Applications 
 
 - [**Assignment 1**](https://github.com/sujay-mahadik/CL7/tree/master/MLA/Assignment1) - Study of platform for Implementation of Assignments. Download the open source software of your interest. Document the distinct features and functionality of the software platform. You may choose WEKA and R and Python 
+
+    :arrow_down: [Download output](https://drive.google.com/file/d/1sKlYf38VWZtNrIKW-S4snWIOKznQkUWS/view?usp=sharing)
+
     - [x] Study and Collect Resources
-    - [x] Implement
+    - [ ] Implement
     - [ ] Done
 
 - [**Assignment 2**](https://github.com/sujay-mahadik/CL7/tree/master/MLA/Assignment2) - Supervised Learning - Regression  (Using R). Generate a proper 2-D data set of N points. Split the data set into Training Data set and Test Data set.
