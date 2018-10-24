@@ -276,3 +276,6 @@ rsconnect/
 
 #packet capture file
 *.pcap
+
+# vs code
+.vscode
