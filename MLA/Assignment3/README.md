@@ -1,6 +1,6 @@
 ## Create Association Rules for the Market Basket Analysis for the given Threshold. (Using R) 
 
-To-Do
+[Association Rule Mining - Data Camp](https://www.datacamp.com/community/tutorials/market-basket-analysis-r)
 
 ### Output File
 
