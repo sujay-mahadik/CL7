@@ -13,3 +13,9 @@ pca <- princomp(myDataPCA, cor = TRUE, scores = TRUE)
 plot(pca)
 plot(pca, type = 'l')
 biplot(pca)
+
+attributes(pca)
+
+pca$sdev
+pca$loadings
+pca$scores
