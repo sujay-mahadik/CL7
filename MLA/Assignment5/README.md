@@ -1,6 +1,6 @@
 ## Implement SVM for performing classification and find its accuracy on the given data. (Using Python) 
 
-To-Do
+[SVM Classifier Basics - Datacamp](https://www.datacamp.com/community/tutorials/svm-classification-scikit-learn-python)
 
 ### Output File
 
