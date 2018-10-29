@@ -19,14 +19,14 @@ public class rsa{
 
         e = BigInteger.probablePrime(bitLength/2, rnd);
 
-        System.out.println("Public key used for encryption (" + e + ", " + n);
+        //System.out.println("Public key used for encryption (" + e + ", " + n +")");
 
         while(phi.gcd(e).compareTo(BigInteger.ONE) > 0 && e.compareTo(phi) < 0){
             e.add(BigInteger.ONE);
         }
 
         d = e.modInverse(phi);
-        System.out.println("Public key used for decryptioon (" + d + ", " + n);
+        //System.out.println("Public key used for decryptioon (" + d + ", " + n + ")");
     }
 
     public static void main(String[] args) {
@@ -40,10 +40,15 @@ public class rsa{
         inputString = in.nextLine();
 
         eByte = (new BigInteger(inputString.getBytes())).modPow(e, n).toByteArray();
-        System.out.println("Encrypted String: " + new String(eByte));
+        System.out.println("\n\nEncrypted String: ");
+        for (byte b : eByte) {
+            System.out.printf("|");
+            System.out.printf("%02X", b);
+            
+        }
 
         dbyte = (new BigInteger(eByte)).modPow(d, n).toByteArray();
-        System.out.println("Original String: " + new String(dbyte));
+        System.out.println("\n\nOriginal String: " + new String(dbyte));
 
     }
 }
