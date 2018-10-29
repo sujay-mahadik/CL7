@@ -273,6 +273,7 @@ rsconnect/
 
 #databases
 *.csv
+*.arff
 
 #packet capture file
 *.pcap
